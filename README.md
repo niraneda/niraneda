@@ -33,6 +33,5 @@ _C++_
 _C_
 
 
-![vector-female-developer](https://user-images.githubusercontent.com/68162144/90031245-adc10e80-dcc5-11ea-8b98-df77d213917a.jpg)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niraneda)](https://github.com/niraneda/github-readme-stats)
 
