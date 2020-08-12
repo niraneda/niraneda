@@ -34,6 +34,6 @@ _C++_
 _C_
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niraneda)](https://github.com/niraneda/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niraneda&theme=tokyonight)](https://github.com/niraneda/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=niraneda&show_icons=true&theme=tokyonight)](https://github.com/niraneda/github-readme-stats)
