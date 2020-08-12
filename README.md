@@ -2,16 +2,16 @@
 
 
 
-*:red_circle:**I am currently learning:** 
+:red_circle:**I am currently learning:** 
 
 
-*:small_blue_diamond:
-Azure 
+:small_blue_diamond:
+_Azure 
 
 
-*:red_circle:**I am using:**
+:red_circle:**I am using:**
 
-*:small_blue_diamond:
+:small_blue_diamond:
 Visual Studio Code
 
 :small_blue_diamond:
