@@ -35,3 +35,4 @@ _C_
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niraneda)](https://github.com/niraneda/github-readme-stats)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=niraneda)](https://github.com/niraneda/github-readme-stats)
