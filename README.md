@@ -32,3 +32,7 @@ _C++_
 :small_blue_diamond:
 _C_
 
+
+- name: comment-pr
+  uses: JoseThen/comment-pr@v1
+
