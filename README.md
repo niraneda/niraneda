@@ -6,16 +6,16 @@
 
 
 :small_blue_diamond:
-_Azure 
+_Azure_ 
 
 
 :red_circle:**I am using:**
 
 :small_blue_diamond:
-Visual Studio Code
+_Visual Studio Code_
 
 :small_blue_diamond:
-Microsoft Azure
+_Microsoft Azure_
 
 :small_blue_diamond:
 Github
