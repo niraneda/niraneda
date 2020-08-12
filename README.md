@@ -1,7 +1,7 @@
 ## **Niran Eda Arslan -  Software Engineering Student :books: / Intern :computer:** ##
 
-<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white />
-
+  <a href="https://www.linkedin.com/in/niran-eda-arslan-40a80217a/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 ### :red_circle:**I am currently learning:** 
 
