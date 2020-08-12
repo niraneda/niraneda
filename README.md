@@ -18,17 +18,17 @@ _Visual Studio Code_
 _Microsoft Azure_
 
 :small_blue_diamond:
-Github
+_Github_
 
 :small_blue_diamond:
-Java
+_Java_
 
 :small_blue_diamond:
-Git
+_Git_
 
 :small_blue_diamond:
-C++
+_C++_
 
 :small_blue_diamond:
-C
+_C_
 
