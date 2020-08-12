@@ -2,14 +2,14 @@
 
 
 
-:red_circle:**I am currently learning:** 
+### :red_circle:**I am currently learning:** 
 
 
 :small_blue_diamond:
 _Azure_ 
 
 
-:red_circle:**I am using:**
+### :red_circle:**I am using:**
 
 :small_blue_diamond:
 _Visual Studio Code_
