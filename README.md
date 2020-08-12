@@ -33,6 +33,6 @@ _C++_
 _C_
 
 
-- name: comment-pr
-  uses: JoseThen/comment-pr@v1
+![vector-female-developer](https://user-images.githubusercontent.com/68162144/90031245-adc10e80-dcc5-11ea-8b98-df77d213917a.jpg)
+
 
