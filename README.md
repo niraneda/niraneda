@@ -8,6 +8,8 @@
 
 :small_blue_diamond:
 _Azure_ 
+:small_blue_diamond:
+_Unity_
 
 
 ### :red_circle:**I am using:**
@@ -32,6 +34,9 @@ _C++_
 
 :small_blue_diamond:
 _C_
+
+:small_blue_diamond:
+_C#_
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niraneda&theme=tokyonight)](https://github.com/niraneda/github-readme-stats)
